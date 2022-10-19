@@ -1,0 +1,170 @@
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e66689"
+  },
+  "userId": "1",
+  "Student_name": "Arul",
+  "Gender": "Male",
+  "Contact_number": {
+    "$numberDouble": "9967584466.0"
+  },
+  "Email": "arul@gmail.com",
+  "Course_Name": "Full Stack Developer",
+  "Course_Duration": "3 months - Weekdays",
+  "NumberOfProblemssolved": {
+    "$numberInt": "300"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e6668a"
+  },
+  "userId": "2",
+  "Student_name": "Arun",
+  "Gender": "Male",
+  "Contact_number": {
+    "$numberDouble": "9.7584654656000E+10"
+  },
+  "Email": "arun@gmail.com",
+  "Course_Name": "Full Stack Developer",
+  "Course_Duration": "3 months - Weekdays",
+  "NumberOfProblemssolved": {
+    "$numberInt": "350"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e6668b"
+  },
+  "userId": "3",
+  "Student_name": "Neha",
+  "Gender": "Female",
+  "Contact_number": {
+    "$numberDouble": "8675652545.0"
+  },
+  "Email": "neha@gmail.com",
+  "Course_Name": "Full Stack Developer",
+  "Course_Duration": "3 months - Weekdays",
+  "NumberOfProblemssolved": {
+    "$numberInt": "400"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e6668c"
+  },
+  "userId": "4",
+  "Student_name": "Nisha",
+  "Gender": "Female",
+  "Contact_number": {
+    "$numberDouble": "6465465632.0"
+  },
+  "Email": "nisha@gmail.com",
+  "Course_Name": "Full Stack Developer",
+  "Course_Duration": "3 months - Weekdays",
+  "NumberOfProblemssolved": {
+    "$numberInt": "510"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e6668d"
+  },
+  "userId": "5",
+  "Student_name": "Shyla",
+  "Gender": "Female",
+  "Contact_number": {
+    "$numberDouble": "6355754656.0"
+  },
+  "Email": "shyla@gmail.com",
+  "Course_Name": "Full Stack Developer",
+  "Course_Duration": "3 months - Weekdays",
+  "NumberOfProblemssolved": {
+    "$numberInt": "300"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e6668e"
+  },
+  "userId": "6",
+  "Student_name": "Aadi",
+  "Gender": "Male",
+  "Contact_number": {
+    "$numberDouble": "9466563243.0"
+  },
+  "Email": "aadi@gmail.com",
+  "Course_Name": "Full Stack Developer",
+  "Course_Duration": "3 months - Weekdays",
+  "NumberOfProblemssolved": {
+    "$numberInt": "380"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e6668f"
+  },
+  "userId": "7",
+  "Student_name": "Uma",
+  "Gender": "Female",
+  "Contact_number": {
+    "$numberDouble": "6367246546.0"
+  },
+  "Email": "uma@gmail.com",
+  "Course_Name": "Full Stack Developer",
+  "Course_Duration": "3 months - Weekdays",
+  "NumberOfProblemssolved": {
+    "$numberInt": "420"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e66690"
+  },
+  "userId": "8",
+  "Student_name": "Karan",
+  "Gender": "Male",
+  "Contact_number": {
+    "$numberDouble": "6855445545.0"
+  },
+  "Email": "karan@gmail.com",
+  "Course_Name": "Full Stack Developer",
+  "Course_Duration": "3 months - Weekdays",
+  "NumberOfProblemssolved": {
+    "$numberInt": "500"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e66691"
+  },
+  "userId": "9",
+  "Student_name": "Harish",
+  "Gender": "Male",
+  "Contact_number": {
+    "$numberDouble": "9784576546.0"
+  },
+  "Email": "harish@gmail.com",
+  "Course_Name": "Full Stack Developer",
+  "Course_Duration": "3 months - Weekdays",
+  "NumberOfProblemssolved": {
+    "$numberInt": "520"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e66692"
+  },
+  "userId": "10",
+  "Student_name": "Meera",
+  "Gender": "Female",
+  "Contact_number": {
+    "$numberDouble": "9853547645.0"
+  },
+  "Email": "meera@gmail.com",
+  "Course_Name": "Full Stack Developer",
+  "Course_Duration": "3 months - Weekdays",
+  "NumberOfProblemssolved": {
+    "$numberInt": "450"
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e6669d"
+  },
+  "Date": {
+    "$date": {
+      "$numberLong": "1602720000000"
+    }
+  },
+  "NoOfStudentsAbsent": {
+    "$numberInt": "0"
+  },
+  "NoOfStudentsPresent": {
+    "$numberInt": "10"
+  },
+  "TotalNumberOfStudents": {
+    "$numberInt": "10"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e6669e"
+  },
+  "Date": {
+    "$date": {
+      "$numberLong": "1602806400000"
+    }
+  },
+  "NoOfStudentsAbsent": {
+    "$numberInt": "1"
+  },
+  "NoOfStudentsPresent": {
+    "$numberInt": "9"
+  },
+  "TotalNumberOfStudents": {
+    "$numberInt": "10"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e6669f"
+  },
+  "Date": {
+    "$date": {
+      "$numberLong": "1603065600000"
+    }
+  },
+  "NoOfStudentsAbsent": {
+    "$numberInt": "2"
+  },
+  "NoOfStudentsPresent": {
+    "$numberInt": "8"
+  },
+  "TotalNumberOfStudents": {
+    "$numberInt": "10"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666a0"
+  },
+  "Date": {
+    "$date": {
+      "$numberLong": "1603152000000"
+    }
+  },
+  "NoOfStudentsAbsent": {
+    "$numberInt": "1"
+  },
+  "NoOfStudentsPresent": {
+    "$numberInt": "9"
+  },
+  "TotalNumberOfStudents": {
+    "$numberInt": "10"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666a1"
+  },
+  "Date": {
+    "$date": {
+      "$numberLong": "1603238400000"
+    }
+  },
+  "NoOfStudentsAbsent": {
+    "$numberInt": "0"
+  },
+  "NoOfStudentsPresent": {
+    "$numberInt": "10"
+  },
+  "TotalNumberOfStudents": {
+    "$numberInt": "10"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666a2"
+  },
+  "Date": {
+    "$date": {
+      "$numberLong": "1603324800000"
+    }
+  },
+  "NoOfStudentsAbsent": {
+    "$numberInt": "3"
+  },
+  "NoOfStudentsPresent": {
+    "$numberInt": "7"
+  },
+  "TotalNumberOfStudents": {
+    "$numberInt": "10"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666a3"
+  },
+  "Date": {
+    "$date": {
+      "$numberLong": "1603411200000"
+    }
+  },
+  "NoOfStudentsAbsent": {
+    "$numberInt": "2"
+  },
+  "NoOfStudentsPresent": {
+    "$numberInt": "8"
+  },
+  "TotalNumberOfStudents": {
+    "$numberInt": "10"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666a4"
+  },
+  "Date": {
+    "$date": {
+      "$numberLong": "1603670400000"
+    }
+  },
+  "NoOfStudentsAbsent": {
+    "$numberInt": "0"
+  },
+  "NoOfStudentsPresent": {
+    "$numberInt": "10"
+  },
+  "TotalNumberOfStudents": {
+    "$numberInt": "10"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666a5"
+  },
+  "Date": {
+    "$date": {
+      "$numberLong": "1603756800000"
+    }
+  },
+  "NoOfStudentsAbsent": {
+    "$numberInt": "3"
+  },
+  "NoOfStudentsPresent": {
+    "$numberInt": "7"
+  },
+  "TotalNumberOfStudents": {
+    "$numberInt": "10"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666a6"
+  },
+  "Date": {
+    "$date": {
+      "$numberLong": "1603843200000"
+    }
+  },
+  "NoOfStudentsAbsent": {
+    "$numberInt": "2"
+  },
+  "NoOfStudentsPresent": {
+    "$numberInt": "8"
+  },
+  "TotalNumberOfStudents": {
+    "$numberInt": "10"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666a7"
+  },
+  "Date": {
+    "$date": {
+      "$numberLong": "1603929600000"
+    }
+  },
+  "NoOfStudentsAbsent": {
+    "$numberInt": "5"
+  },
+  "NoOfStudentsPresent": {
+    "$numberInt": "5"
+  },
+  "TotalNumberOfStudents": {
+    "$numberInt": "10"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666a8"
+  },
+  "Date": {
+    "$date": {
+      "$numberLong": "1604016000000"
+    }
+  },
+  "NoOfStudentsAbsent": {
+    "$numberInt": "3"
+  },
+  "NoOfStudentsPresent": {
+    "$numberInt": "7"
+  },
+  "TotalNumberOfStudents": {
+    "$numberInt": "10"
+  }
+}

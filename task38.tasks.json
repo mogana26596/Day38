@@ -1,0 +1,45 @@
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666b3"
+  },
+  "S_No": {
+    "$numberInt": "1"
+  },
+  "Month": "August",
+  "TotalNumberOfTasks": {
+    "$numberInt": "10"
+  },
+  "NoOfPendingTasks": {
+    "$numberInt": "3"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666b4"
+  },
+  "S_No": {
+    "$numberInt": "2"
+  },
+  "Month": "September",
+  "TotalNumberOfTasks": {
+    "$numberInt": "12"
+  },
+  "NoOfPendingTasks": {
+    "$numberInt": "5"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666b5"
+  },
+  "S_No": {
+    "$numberInt": "3"
+  },
+  "Month": "October",
+  "TotalNumberOfTasks": {
+    "$numberInt": "10"
+  },
+  "NoOfPendingTasks": {
+    "$numberInt": "1"
+  }
+}

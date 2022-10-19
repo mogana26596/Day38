@@ -1,0 +1,170 @@
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666b6"
+  },
+  "userId": {
+    "$numberInt": "1"
+  },
+  "Date": {
+    "$date": {
+      "$numberLong": "1602547200000"
+    }
+  },
+  "CompanyName": "Juspay",
+  "PlacedStudentUserId": {
+    "$numberInt": "10"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666b7"
+  },
+  "userId": {
+    "$numberInt": "2"
+  },
+  "Date": {
+    "$date": {
+      "$numberLong": "1602720000000"
+    }
+  },
+  "CompanyName": "OneDPO",
+  "PlacedStudentUserId": {
+    "$numberInt": "8"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666b8"
+  },
+  "userId": {
+    "$numberInt": "3"
+  },
+  "Date": {
+    "$date": {
+      "$numberLong": "1603065600000"
+    }
+  },
+  "CompanyName": "Stackup",
+  "PlacedStudentUserId": {
+    "$numberInt": "2"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666b9"
+  },
+  "userId": {
+    "$numberInt": "4"
+  },
+  "Date": {
+    "$date": {
+      "$numberLong": "1603324800000"
+    }
+  },
+  "CompanyName": "Flipkart",
+  "PlacedStudentUserId": {
+    "$numberInt": "3"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666ba"
+  },
+  "userId": {
+    "$numberInt": "5"
+  },
+  "Date": {
+    "$date": {
+      "$numberLong": "1603411200000"
+    }
+  },
+  "CompanyName": "TCL",
+  "PlacedStudentUserId": {
+    "$numberInt": "6"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666bb"
+  },
+  "userId": {
+    "$numberInt": "6"
+  },
+  "Date": {
+    "$date": {
+      "$numberLong": "1603670400000"
+    }
+  },
+  "CompanyName": "TATA COMMUNICATIONS",
+  "PlacedStudentUserId": {
+    "$numberInt": "1"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666bc"
+  },
+  "userId": {
+    "$numberInt": "7"
+  },
+  "Date": {
+    "$date": {
+      "$numberLong": "1603843200000"
+    }
+  },
+  "CompanyName": "innive",
+  "PlacedStudentUserId": {
+    "$numberInt": "5"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666bd"
+  },
+  "userId": {
+    "$numberInt": "8"
+  },
+  "Date": {
+    "$date": {
+      "$numberLong": "1604016000000"
+    }
+  },
+  "CompanyName": "Clayfin",
+  "PlacedStudentUserId": {
+    "$numberInt": "7"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666be"
+  },
+  "userId": {
+    "$numberInt": "9"
+  },
+  "Date": {
+    "$date": {
+      "$numberLong": "1604361600000"
+    }
+  },
+  "CompanyName": "Orcaso",
+  "PlacedStudentUserId": {
+    "$numberInt": "4"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666bf"
+  },
+  "userId": {
+    "$numberInt": "10"
+  },
+  "Date": {
+    "$date": {
+      "$numberLong": "1604620800000"
+    }
+  },
+  "CompanyName": "ZOHO",
+  "PlacedStudentUserId": {
+    "$numberInt": "9"
+  }
+}

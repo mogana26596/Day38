@@ -1,0 +1,120 @@
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e66693"
+  },
+  "userId": {
+    "$numberInt": "1"
+  },
+  "CodekataTopics": "Input/Output",
+  "TotalNoOfcoding": {
+    "$numberInt": "10"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e66694"
+  },
+  "userId": {
+    "$numberInt": "2"
+  },
+  "CodekataTopics": "Absolute Beginner",
+  "TotalNoOfcoding": {
+    "$numberInt": "30"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e66695"
+  },
+  "userId": {
+    "$numberInt": "3"
+  },
+  "CodekataTopics": "Array",
+  "TotalNoOfcoding": {
+    "$numberInt": "308"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e66696"
+  },
+  "userId": {
+    "$numberInt": "4"
+  },
+  "CodekataTopics": "Mathematics",
+  "TotalNoOfcoding": {
+    "$numberInt": "192"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e66697"
+  },
+  "userId": {
+    "$numberInt": "5"
+  },
+  "CodekataTopics": "Strings",
+  "TotalNoOfcoding": {
+    "$numberInt": "196"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e66698"
+  },
+  "userId": {
+    "$numberInt": "6"
+  },
+  "CodekataTopics": "Basics",
+  "TotalNoOfcoding": {
+    "$numberInt": "41"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e66699"
+  },
+  "userId": {
+    "$numberInt": "7"
+  },
+  "CodekataTopics": "Numbers",
+  "TotalNoOfcoding": {
+    "$numberInt": "22"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e6669a"
+  },
+  "userId": {
+    "$numberInt": "8"
+  },
+  "CodekataTopics": "Sorting",
+  "TotalNoOfcoding": {
+    "$numberInt": "38"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e6669b"
+  },
+  "userId": {
+    "$numberInt": "9"
+  },
+  "CodekataTopics": "Matrix",
+  "TotalNoOfcoding": {
+    "$numberInt": "37"
+  }
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e6669c"
+  },
+  "userId": {
+    "$numberInt": "10"
+  },
+  "CodekataTopics": "Looping",
+  "TotalNoOfcoding": {
+    "$numberInt": "14"
+  }
+}

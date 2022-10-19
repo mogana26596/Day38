@@ -1,0 +1,110 @@
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666a9"
+  },
+  "S_No": {
+    "$numberInt": "1"
+  },
+  "Topics": "HTML",
+  "Tasks": "task from HTML",
+  "Month": "August"
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666aa"
+  },
+  "S_No": {
+    "$numberInt": "2"
+  },
+  "Topics": "CSS",
+  "Tasks": "task from CSS",
+  "Month": "August"
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666ab"
+  },
+  "S_No": {
+    "$numberInt": "3"
+  },
+  "Topics": "Javascript",
+  "Tasks": "task from Javascript",
+  "Month": "August"
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666ac"
+  },
+  "S_No": {
+    "$numberInt": "4"
+  },
+  "Topics": "DOM",
+  "Tasks": "task from DOM",
+  "Month": "September"
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666ad"
+  },
+  "S_No": {
+    "$numberInt": "5"
+  },
+  "Topics": "React JS",
+  "Tasks": "task from React JS",
+  "Month": "September"
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666ae"
+  },
+  "S_No": {
+    "$numberInt": "6"
+  },
+  "Topics": "MySQL",
+  "Tasks": "task from MySQL",
+  "Month": "September"
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666af"
+  },
+  "S_No": {
+    "$numberInt": "7"
+  },
+  "Topics": "MongoDB",
+  "Tasks": "task from MongoDB",
+  "Month": "October"
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666b0"
+  },
+  "S_No": {
+    "$numberInt": "8"
+  },
+  "Topics": "NodeJS",
+  "Tasks": "task from NodeJS",
+  "Month": "October"
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666b1"
+  },
+  "S_No": {
+    "$numberInt": "9"
+  },
+  "Topics": "AWS",
+  "Tasks": "task from AWS",
+  "Month": "October"
+}
+{
+  "_id": {
+    "$oid": "634fa423703c10cbe4e666b2"
+  },
+  "S_No": {
+    "$numberInt": "10"
+  },
+  "Topics": "System Design",
+  "Tasks": "task from System Design",
+  "Month": "October"
+}
